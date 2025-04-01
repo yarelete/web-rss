@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-    <head>
-        <title>Suscripciones Real Madrid</title>
-    </head>
-    <body>
-        <outline text="Blog del Real Madrid" type="rss" xmlUrl="https://yarelete.github.io/webrssyarelete/blog/index.html" title="Blog del Real Madrid"/>
-        <outline text="Podcast del Real Madrid" type="rss" xmlUrl="https://yarelete.github.io/webrssyarelete/podcast/index.html" title="Podcast del Real Madrid"/>
-    </body>
+<opml version="2.0">
+  <head>
+    <title>Feeds Atlético de Madrid</title>
+  </head>
+  <body>
+    <outline text="Blog Real Madrid" type="rss" 
+             xmlUrl="https://yarelete.github.io/web-rss/blog/index.html" 
+             htmlUrl="http://localhost/blog"/>
+             
+    <outline text="Podcast Real Madrid" type="rss" 
+             xmlUrl="https://yarelete.github.io/web-rss/podcast/index.html" 
+             htmlUrl="http://localhost/podcast"/>
+  </body>
 </opml>
