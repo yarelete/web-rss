@@ -4,7 +4,7 @@
         <title>Suscripciones Real Madrid</title>
     </head>
     <body>
-        <outline text="Blog del Real Madrid" type="rss" xmlUrl="https://tusitio.com/feed/rss.xml"/>
-        <outline text="Podcast del Real Madrid" type="rss" xmlUrl="https://tusitio.com/feed/podcast.xml"/>
+        <outline text="Blog del Real Madrid" type="rss" xmlUrl="https://yarelete.github.io/webrssyarelete/blog/index.html"/>
+        <outline text="Podcast del Real Madrid" type="rss" xmlUrl="https://yarelete.github.io/webrssyarelete/podcast/index.html"/>
     </body>
 </opml>
