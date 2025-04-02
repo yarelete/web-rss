@@ -5,11 +5,11 @@
   </head>
   <body>
     <outline text="Blog Real Madrid" type="rss" 
-             xmlUrl="https://yarelete.github.io/web-rss/blog/index.html" 
-             htmlUrl="http://localhost/blog"/>
+             xmlUrl="https://yarelete.github.io/web-rss/feed/rss.xml" 
+             htmlUrl="https://yarelete.github.io/web-rss/blog/index.html"/>
              
     <outline text="Podcast Real Madrid" type="rss" 
-             xmlUrl="https://yarelete.github.io/web-rss/podcast/index.html" 
-             htmlUrl="http://localhost/podcast"/>
+             xmlUrl="https://yarelete.github.io/web-rss/feed/podcast.xml" 
+             htmlUrl="https://yarelete.github.io/web-rss/podcast/index.html"/>
   </body>
 </opml>
