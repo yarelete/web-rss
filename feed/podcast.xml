@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-    <channel>
-        <title>Podcast del Real Madrid</title>
-        <link>https://tusitio.com/podcast</link>
-        <description>Análisis, entrevistas y debates sobre el Real Madrid.</description>
-        <language>es</language>
-        <itunes:author>Real Madrid Podcast</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://tusitio.com/images/podcast_cover.jpg"/>
-        
-        <item>
-            <title>Especial Champions League</title>
-            <link>https://tusitio.com/podcast/episodio1.mp3</link>
-            <description>Un episodio especial analizando la participación del Real Madrid en la Champions League.</description>
-            <pubDate>Wed, 13 Mar 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://tusitio.com/podcast/episodio1.mp3" type="audio/mpeg" length="12345678"/>
-        </item>
-
-        <item>
-            <title>Historia de los Clásicos</title>
-            <link>https://tusitio.com/podcast/episodio2.mp3</link>
-            <description>Un repaso a los partidos más memorables entre Real Madrid y Barcelona.</description>
-            <pubDate>Tue, 12 Mar 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://tusitio.com/podcast/episodio2.mp3" type="audio/mpeg" length="9876543"/>
-        </item>
-    </channel>
+<rss version="2.0">
+  <channel>
+    <title>Podcast del Real Madrid</title>
+    <link>https://yarelete.github.io/web-rss/podcast</link>
+    <description>Análisis, entrevistas y debates sobre el Real Madrid.</description>
+    <language>es</language>
+    <atom:link href="https://yarelete.github.io/web-rss/feed/podcast.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    
+    <item>
+      <title>Especial Champions League</title>
+      <link>https://yarelete.github.io/web-rss/podcast/</link>
+      <description>Un episodio especial analizando la participación del Real Madrid en la Champions League.</description>
+      <pubDate>Wed, 13 Mar 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rm-episodio1</guid>
+      <enclosure url="https://yarelete.github.io/web-rss/podcast/episodio1.mp3" type="audio/mpeg" length="12345678"/>
+    </item>
+    
+    <item>
+      <title>Historia de los Clásicos</title>
+      <link>https://yarelete.github.io/web-rss/podcast/</link>
+      <description>Un repaso a los partidos más memorables entre Real Madrid y Barcelona.</description>
+      <pubDate>Tue, 12 Mar 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rm-episodio2</guid>
+      <enclosure url="https://yarelete.github.io/web-rss/podcast/episodio2.mp3" type="audio/mpeg" length="9876543"/>
+    </item>
+    
+    <item>
+      <title>Los fichajes más icónicos del Real Madrid</title>
+      <link>https://yarelete.github.io/web-rss/podcast/</link>
+      <description>Analizamos los fichajes más históricos y su impacto en el club.</description>
+      <pubDate>Mon, 11 Mar 2025 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rm-episodio3</guid>
+      <enclosure url="https://yarelete.github.io/web-rss/podcast/episodio3.mp3" type="audio/mpeg" length="8765432"/>
+    </item>
+  </channel>
 </rss>
